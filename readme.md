@@ -1,4 +1,4 @@
-# (Losn Data Analysis)
+# (Loan Data Analysis)
 ## by (Yousef Ezzeldeen)
 
 
